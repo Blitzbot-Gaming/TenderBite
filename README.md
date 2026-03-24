@@ -59,6 +59,12 @@ TenderBite aims to become the “SkyScanner for food” — helping users not on
 
 ---
 
-## 👨‍💻 Author
-Armaan Menon  
-Computer Science Student @ UOWD  
+## 👨‍💻 Team
+
+**Armaan Menon**  
+Lead Developer  
+Computer Science (Game & App Development) @ UOWD  
+
+**Atifa Karatela**  
+Co-Developer  
+Student @ UOWD
