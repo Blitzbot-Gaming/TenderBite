@@ -67,4 +67,4 @@ Computer Science (Game & App Development) @ UOWD
 
 **Atifa Karatela**  
 Co-Developer  
-Student @ UOWD
+Business Information Systems Student @ UOWD
